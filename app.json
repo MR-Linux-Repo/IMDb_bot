@@ -1,6 +1,6 @@
 
 {
-  "name": "bot",
+  "name": "IMDB Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "5387082104:AAH8lcxwm-6wRwkhA8yGKUBUEA0C_pY8H-4.",
